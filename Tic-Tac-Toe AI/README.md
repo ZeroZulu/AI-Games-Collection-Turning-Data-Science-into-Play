@@ -15,7 +15,7 @@
 
 ### **[→ CLICK HERE TO PLAY ←](https://your-project.vercel.app)**
 
-*Experience the Matrix-themed AI in your browser - no installation required!*
+*Experience the Matrix-themed AI in your browser - no installation required!* 
 
 ---
 
