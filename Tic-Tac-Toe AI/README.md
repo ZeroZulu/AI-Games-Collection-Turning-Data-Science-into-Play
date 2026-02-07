@@ -13,7 +13,7 @@
 
 ## 🎮 LIVE DEMO 🎮
 
-### **[→ CLICK HERE TO PLAY ←](tictactoe-neural-net.vercel.app)**
+### **[→ CLICK HERE TO PLAY ←](https://tictactoe-neural-net.vercel.app)**
 
 *Experience the Matrix-themed AI in your browser - no installation required!* 
 
@@ -48,7 +48,7 @@ A unique fusion of algorithm visualization and retro gaming aesthetics. This pro
 
 | What | Where |
 |------|-------|
-| 🎮 **Play the Game** | [Live Demo on Vercel](https://your-project.vercel.app) |
+| 🎮 **Play the Game** | [Live Demo on Vercel](https://tictactoe-neural-net.vercel.app) |
 | 📖 **Full Documentation** | [Deployment Guide](DEPLOY_GITHUB_VERCEL.md) |
 | 🐍 **Python Setup** | [Python Quick Start](PYTHON_MATRIX_QUICKSTART.md) |
 | 🎨 **Design Guide** | [Matrix Edition Guide](MATRIX_EDITION_GUIDE.md) |
@@ -149,7 +149,7 @@ A unique fusion of algorithm visualization and retro gaming aesthetics. This pro
 
 ### 🌐 Play Online (Easiest!)
 
-**Just click:** **[https://your-project.vercel.app](tictactoe-neural-net.vercel.app)**
+**Just click:** **[https://tictactoe-neural-net.vercel.app](tictactoe-neural-net.vercel.app)**
 
 That's it! No setup, no installation, works on any device.
 
