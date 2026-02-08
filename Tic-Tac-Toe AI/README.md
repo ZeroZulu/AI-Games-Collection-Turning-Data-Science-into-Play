@@ -198,42 +198,6 @@ python gui/tic_tac_toe_matrix_gui.py
 
 ---
 
-## 🎓 What This Demonstrates
-
-### For Data Science Roles
-
-| Skill | Evidence |
-|-------|----------|
-| **Algorithm Design** | Minimax implementation from scratch |
-| **Optimization** | 67% efficiency gain via pruning |
-| **Data Visualization** | Real-time decision tree rendering |
-| **Statistical Analysis** | Performance metrics and tracking |
-| **Documentation** | Clear README and guides |
-
-### For Software Engineering Roles
-
-| Skill | Evidence |
-|-------|----------|
-| **Full-Stack** | Frontend + backend logic + deployment |
-| **Multiple Platforms** | Web, CLI, GUI implementations |
-| **Code Quality** | Clean, documented, maintainable |
-| **UI/UX Design** | Engaging, accessible interface |
-| **Version Control** | Git workflow and documentation |
-
----
-
-## 🎯 Use Cases
-
-This project showcases skills relevant to:
-
-- **Game AI Development** - Strategic decision-making algorithms
-- **Algorithm Optimization** - Performance tuning and efficiency
-- **Data Visualization** - Real-time interactive graphics
-- **Explainable AI** - Transparent decision-making processes
-- **Full-Stack Development** - Complete project from concept to deployment
-
----
-
 ## 📈 Benchmarks
 
 Test configuration: 100 games, alpha-beta pruning enabled
@@ -307,9 +271,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 **Your Name**
 
-- 🌐 Portfolio: [yourwebsite.com](https://zerozulu.github.io)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/shril-patel-020504284/)  
-- 🐙 GitHub: [@yourusername](https://github.com/Zerozulu)
+- 🌐 Portfolio: [https://zerozulu.github.io](https://zerozulu.github.io)
+- 💼 LinkedIn: [https://www.linkedin.com/in/shril-patel-020504284/](https://www.linkedin.com/in/shril-patel-020504284/)  
+- 🐙 GitHub: [@ZeroZulu](https://github.com/Zerozulu)
 
 ---
 
