@@ -93,7 +93,7 @@ Generate a weighted maze, run Dijkstra, A*, BFS, Greedy, and Bidirectional head-
 
 **Built with:** Python · Streamlit · NumPy · Plotly
 
-<a href="YOUR_MAZE_STREAMLIT_URL"><img src="https://img.shields.io/badge/▶_PLAY_NOW-e17055?style=for-the-badge" alt="Play"/></a> <a href="https://github.com/ZeroZulu/data-maze-pro"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+<a href="https://data-maze-pro-dthhycgrlfmppcvmkmqoko.streamlit.app"><img src="https://img.shields.io/badge/▶_PLAY_NOW-e17055?style=for-the-badge" alt="Play"/></a> <a href="https://github.com/ZeroZulu/data-maze-pro"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 
 </td>
 </tr>
