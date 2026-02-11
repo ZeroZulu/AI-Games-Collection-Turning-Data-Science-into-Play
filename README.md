@@ -185,7 +185,7 @@ Badge colors: green=#00b894, purple=#6c5ce7, red=#e17055, blue=#0984e3, orange=#
 
 **Looking for a Data Scientist / Analyst who builds things that work?**
 
-🐙 GitHub: [@ZeroZulu](https://github.com/ZeroZulu) · 💼 LinkedIn: [Your Profile](https://linkedin.com/in/YOUR_PROFILE) · 📧 your.email@example.com
+🐙 GitHub: [@ZeroZulu](https://github.com/ZeroZulu) · 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/shril-patel-020504284/) 
 
 ---
 
