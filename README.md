@@ -27,7 +27,7 @@ Most data science portfolios are Jupyter notebooks nobody opens. These are **liv
 <tr>
 <td width="50%">
 <a href="https://tictactoe-neural-net.vercel.app">
-<img src="assets/tictactoe-screenshot.png" alt="Tic-Tac-Toe AI" width="100%"/>
+<img src="assets/Tic Tac Toe.png" alt="Tic-Tac-Toe AI" width="100%"/>
 </a>
 </td>
 <td width="50%" valign="top">
@@ -67,7 +67,7 @@ Three AI strategies compete: entropy maximization, position-frequency analysis, 
 </td>
 <td width="50%">
 <a href="YOUR_WORDLE_STREAMLIT_URL">
-<img src="assets/wordle-screenshot.png" alt="Wordle Entropy Solver" width="100%"/>
+<img src="assets/Wordle.png" alt="Wordle Entropy Solver" width="100%"/>
 </a>
 </td>
 </tr>
@@ -79,7 +79,7 @@ Three AI strategies compete: entropy maximization, position-frequency analysis, 
 <tr>
 <td width="50%">
 <a href="YOUR_MAZE_STREAMLIT_URL">
-<img src="assets/datamaze-screenshot.png" alt="Data Maze Pro" width="100%"/>
+<img src="assets/DataMaze.png" alt="Data Maze Pro" width="100%"/>
 </a>
 </td>
 <td width="50%" valign="top">
