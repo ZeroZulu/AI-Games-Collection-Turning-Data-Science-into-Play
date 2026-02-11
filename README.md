@@ -62,7 +62,7 @@ Three AI strategies compete: entropy maximization, position-frequency analysis, 
 
 **Built with:** Python · Streamlit · Plotly
 
-<a href="YOUR_WORDLE_STREAMLIT_URL"><img src="https://img.shields.io/badge/▶_PLAY_NOW-6c5ce7?style=for-the-badge" alt="Play"/></a> <a href="https://github.com/ZeroZulu/enhanced-wordle-ai"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+<a href="https://wordle-entropy-solver-fnzfqdyomikgnf8dxuvnat.streamlit.app"><img src="https://img.shields.io/badge/▶_PLAY_NOW-6c5ce7?style=for-the-badge" alt="Play"/></a> <a href="https://github.com/ZeroZulu/wordle-entropy-solver"><img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 
 </td>
 <td width="50%">
