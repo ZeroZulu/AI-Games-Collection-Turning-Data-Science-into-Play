@@ -82,7 +82,7 @@
 <tr>
 <td width="50%">
 <a href="YOUR_POKEMON_PLAY_URL">
-<img src="assets/GuessThatPokemon.png" alt="Guess That Pokémon" width="100%"/>
+<img src="assets/guessthatpokemon.png" alt="Guess That Pokémon" width="100%"/>
 </a>
 </td>
 <td width="50%" valign="top">
